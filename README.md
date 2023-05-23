@@ -1,1 +1,2 @@
 # Gitopia
+How to learn 
